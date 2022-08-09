@@ -4,15 +4,8 @@ minimal_mistakes_skin: "dark"
 
 locale: "en-US"
 
-title: Samuel's Sgenanigans
-description: programming and technology blog
-
-name: Samuel Kriikkula
-avatar: /assets/b2.jpeg
-
-author:
-  name: Samuel Kriikkula
-  avatar: "/assets/b2.jpg"
+title: Samuel's Shenanigans
+description: Programming and Technology blog
 
 plugins:
   - jekyll-include-cache
