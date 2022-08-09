@@ -28,7 +28,7 @@ gitlab_username: XamN
 github_username: XamNn
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
