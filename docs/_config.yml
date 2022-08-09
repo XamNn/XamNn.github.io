@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: samuels shenanigans 
 description: programming and technology blog
 
