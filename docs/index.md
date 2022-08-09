@@ -1,3 +1,3 @@
-## samuels shenanigans
+## Samuel's Shenanigans
 
-Test
+Hello there! I'm Samuel. I like all things technology. Welcome to my blog.
