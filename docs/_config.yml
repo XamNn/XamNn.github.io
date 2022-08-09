@@ -7,3 +7,6 @@ description: programming and technology blog
 author:
   name: Samuel Kriikkula
   avatar: "/assets/b2.jpg"
+
+plugins:
+  - jekyll-include-cache
