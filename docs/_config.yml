@@ -1,8 +1,14 @@
 #theme: jekyll-theme-cayman
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-title: samuels shenanigans 
+minimal_mistakes_skin: "dark"
+
+locale: "en-US"
+
+title: Samuel's Sgenanigans
 description: programming and technology blog
 
+name: Samuel Kriikkula
+avatar: /assets/b2.jpeg
 
 author:
   name: Samuel Kriikkula
@@ -10,3 +16,10 @@ author:
 
 plugins:
   - jekyll-include-cache
+
+url: "https://kriikkula.com"
+
+logo: "/assets/logo.svg"
+
+aginate: 5 # amount of posts to show
+paginate_path: /page:num/
