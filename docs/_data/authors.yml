@@ -2,8 +2,12 @@ Samuel Kriikkula:
   name: "Samuel Kriikkula"
   bio: "IT Nerd"
   avatar: "/assets/m-copped.jpg"
-  email: "samuel@kriikkula.com"
-  socials:
-    github: XamNn
-    gitlab: XamN
-    discord: XamN#4071
+  links:
+    - label: "Email: samuel@kriikkula.com"
+      url: "mailto:samuel@kriikkula.com"
+    - label: "Gitlab: XamN"
+      url: "https://gitlab.com/XamN
+    - label: "Github: XamNn"
+      url: "https://github.com/XamN
+    - label: "Discord: XamN#4071"
+      url: "#"

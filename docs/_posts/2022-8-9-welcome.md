@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome!
-author: Samuel Kriikkula
+title: "Welcome!"
+author: "Samuel Kriikkula"
 ---
 
 # Welcome!
