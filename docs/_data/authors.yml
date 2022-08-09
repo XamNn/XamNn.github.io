@@ -6,7 +6,10 @@ Samuel Kriikkula:
   links:
     - label: "Gitlab"
       url: "https://gitlab.com/XamN"
+      fa-icon: "fa-gitlab"
     - label: "Github"
       url: "https://github.com/XamNn"
-    - label: "Discord: XamN#4071"
+      fa-icon: "fa-github"
+    - label: "XamN#4071"
       url: "#"
+      fa-icon: "fa-discord"

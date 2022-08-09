@@ -30,3 +30,5 @@ defaults:
       comments: true
       share: true
       related: true
+
+atom_feed.hide: true

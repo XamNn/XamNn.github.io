@@ -3,14 +3,14 @@ title: "Welcome!"
 author: "Samuel Kriikkula"
 ---
 
-Welcome to my blog. This time in English. I'm planning a Finnish blog also.
+Welcome to my blog. This time in English.
 
 ## Who?
 I'm Samuel Kriikkula, a hobbyist programmer from Kuopio, Finland.
 I've done some work as a teacher of programming and robotics for children and teenagers.
 I'm currently interested in compiler design, neural nets, and pen testing.
-Buidling and maintaining servers is very interesting to me as well.
-I like Linux, althoung I sometimes use Windows for gaming and making music with FL Studio.
+Building and maintaining servers is very interesting to me as well.
+I like Linux, although I sometimes use Windows for gaming and making music with FL Studio.
 I have completed some courses for the Kajaani University of Applied Sciences.
 I have an interest in entrepreneurship, and my hope is to someday start my own business.
 
