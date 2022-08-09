@@ -3,7 +3,6 @@ title: "Welcome!"
 author: "Samuel Kriikkula"
 ---
 
-# Welcome!
 Welcome to my blog. This time in English. I'm planning a Finnish blog also.
 
 ## Who?
