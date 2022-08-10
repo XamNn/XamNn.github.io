@@ -1,7 +1,7 @@
 Samuel Kriikkula:
   name: "Samuel Kriikkula"
   bio: "IT Nerd"
-  avatar: "/assets/m-copped.jpg"
+  avatar: "/assets/me.jpg"
   email: "samuel@kriikkula.com"
   links:
     - label: "Gitlab"
@@ -13,3 +13,6 @@ Samuel Kriikkula:
     - label: "XamN#4071"
       url: "#"
       fa-icon: "fa-discord"
+    - label: "Linkedin"
+      url: "https://www.linkedin.com/in/samuel-kriikkula/"
+      fa-icon: "fa-linkedin"

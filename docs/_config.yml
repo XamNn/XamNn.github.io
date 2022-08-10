@@ -15,7 +15,7 @@ url: "https://kriikkula.com"
 
 logo: "/assets/logo.svg"
 
-aginate: 5 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
 defaults:
@@ -31,4 +31,5 @@ defaults:
       share: true
       related: true
 
-atom_feed.hide: true
+atom_feed:
+  hide: true
