@@ -26,7 +26,7 @@ defaults:
     values:
       layout: single
       toc: true
-      toc_sticky: false
+      toc_sticky: true
       author_profile: true
       read_time: true
       comments: true
