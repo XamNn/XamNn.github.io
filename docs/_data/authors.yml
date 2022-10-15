@@ -4,7 +4,7 @@ Samuel Kriikkula:
   avatar: "/assets/me.jpg"
   email: "samuel@kriikkula.com"
   links:
-    - label: "Matrix"
+    - label: "@samuel:kriikkula.com (matrix)"
       url: "#"
       icon: "bi bi-globe2"
     - label: "Gitlab"
