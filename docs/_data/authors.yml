@@ -18,3 +18,6 @@ Samuel Kriikkula:
     - label: "Linkedin"
       url: "https://www.linkedin.com/in/samuel-kriikkula/"
       icon: "bi bi-linkedin"
+    - label: "Twitter"
+      url: "https://twitter.com/SamuelKriikkula"
+      icon: "bi bi-twitter"
