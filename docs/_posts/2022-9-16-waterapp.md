@@ -22,8 +22,10 @@ Once installed, click Ctrl + Shirt + P and select "Flutter: New Project"
 ![New Project](https://i.imgur.com/yiUhSXt.png)
 
 ## Main
-The starting point can be found in *lib/main.dart*
+The starting point can be found in *main.dart*.
 Empty the file and copy the following:
+
+*lib/main.dart:*
 ```dart
 import 'package:flutter/material.dart';
 
