@@ -4,8 +4,8 @@ Samuel Kriikkula:
   avatar: "https://kriikkula.com/assets/me.jpg"
   email: "samuel@kriikkula.com"
   links:
-    - label: "@samuel:kriikkula.com"
-      url: "https://matrix.org/"
+    - label: "Matrix"
+      url: "https://matrix.to/#/@samuel:kriikkula.com"
       icon: "bi bi-globe2"
     - label: "Gitlab"
       url: "https://gitlab.com/XamN"
