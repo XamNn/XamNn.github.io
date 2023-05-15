@@ -1,0 +1,37 @@
+#theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+locale: "en-US"
+
+name: Samuel Kriikkula
+title: Samuel's Shenanigans
+description: Programming and Technology blog
+
+plugins:
+  - jekyll-include-cache
+
+url: "https://kriikkula.com"
+
+logo: "/assets/logo.svg"
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+atom_feed:
+  hide: true
