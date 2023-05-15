@@ -1,4 +1,9 @@
-# Install testaustime on Code-OSS
+---
+title: "Install testaustime on Code-OSS"
+author: "Samuel Kriikkula"
+---
+
+Check out [testaustime](https://testaustime.fi).
 
 1. Clone the repo: `git clone git@github.com:Testaustime/testaustime-vscode.git`
 2. Cd into the repo.
