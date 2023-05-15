@@ -12,6 +12,6 @@ Check out [testaustime](https://testaustime.fi).
 4. Run `npm run bundle`.
 6. Start Code-OSS.
 7. Press `Ctrl + Shift + P`
-8. Type `>Extensions: Install from VSIX
+8. Type `>Extensions: Install from VSIX`
 9. Select the `testaustime.vsix` (or similar).
 10. Done!
