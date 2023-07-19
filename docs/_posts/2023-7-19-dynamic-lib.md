@@ -59,4 +59,4 @@ unsafe {
     println!("{}", func(1, 2));
     // output: 3
 }
-```s
+```
