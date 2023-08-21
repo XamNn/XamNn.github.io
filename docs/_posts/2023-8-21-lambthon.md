@@ -31,12 +31,6 @@ This returns 1.
 a 1
 ```
 
-## The second most simple function
-The defined *b* function takes two parameters and returns it's second parameter
-```
-b = ^x.^y.y
-```
-
 ## Math
 Addition
 ```
