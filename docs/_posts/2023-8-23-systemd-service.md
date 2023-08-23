@@ -3,7 +3,7 @@ title: "Manage your own daemon! - Systemd services"
 author: "Samuel Kriikkula"
 ---
 
-Hello there! It's Samuel back in the game. Today I will teach you about daemons and systemd Services.
+Hello there! It's Samuel back in the game. Today I will teach you about daemons and Systemd services.
 
 ## What the heck is a daemon?
 In Linux, daemons are programs that run silently in the background. They provide services such as audio, video, networking, databases, docker containers, and much more. They can also be for example python scripts, or game servers if you like.
