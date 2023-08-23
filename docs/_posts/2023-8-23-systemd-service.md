@@ -1,5 +1,5 @@
 ---
-title: "Manage your own Daemon! - Systemd Services"
+title: "Manage your own daemon! - Systemd services"
 author: "Samuel Kriikkula"
 ---
 
@@ -60,5 +60,7 @@ sudo systemctl status web-daemon  # Show the status of the process
 sudo systemctl enable web-daemon  # Enable the daemon to start on system startup
 sudo systemctl disable web-daemon # You get the drill
 ```
+## Finishing up
+Start the daemon and naviage to localhost:8000 and you should see a friendy message.
 
 See you in the next one ;)
