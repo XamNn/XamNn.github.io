@@ -46,7 +46,7 @@ Hello world
 ```
 
 ## Let's make a daemon
-**Note!** If you are using NixOS, look below.
+**Note!** The process is a bit different for some distributions
 
 Locate to this directory: `/etc/systemd/system`. Our daemons live here!
 
