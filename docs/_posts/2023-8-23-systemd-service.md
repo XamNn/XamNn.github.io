@@ -1,9 +1,9 @@
 ---
-title: "Manage your own Daemon! - Systemd Services"
+title: "Manage your own daemon! - Systemd services"
 author: "Samuel Kriikkula"
 ---
 
-Hello there! It's Samuel back in the game. Today I will teach you about daemons and systemd Services.
+Hello there! It's Samuel. Today I will teach you about daemons and Systemd services.
 
 ## What the heck is a daemon?
 In Linux, daemons are programs that run silently in the background. They provide services such as audio, video, networking, databases, docker containers, and much more. They can also be for example python scripts, or game servers if you like.
@@ -60,5 +60,7 @@ sudo systemctl status web-daemon  # Show the status of the process
 sudo systemctl enable web-daemon  # Enable the daemon to start on system startup
 sudo systemctl disable web-daemon # You get the drill
 ```
+## Finishing up
+Start the daemon and navigate to `localhost:8000` with your browser of choice and you should see a friendy message.
 
 See you in the next one ;)
